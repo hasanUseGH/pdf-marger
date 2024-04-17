@@ -31,5 +31,5 @@ python main.py
 
 - `input_folder`: Place your PDF files here.
 - `merged_pdf`: Merged PDF files will be saved here.
-```
+
 
