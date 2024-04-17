@@ -6,4 +6,4 @@ merged_pdf/*
 !merged_pdf/.gitkeep
 build/
 dist/
-venv/
+myvenv/
