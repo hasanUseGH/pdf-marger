@@ -18,12 +18,20 @@ pip install PyPDF2
 
 ## Create virtual environment
 1. create venv
-2. activate the venv
- 
 ```
 python -m venv myvenv
 ```
-3. you can use the extension - Python Environment Manager. 
+
+2. activate the venv for python 3.10.11
+```
+myvenv\bin\activate
+```
+3. to deactivate 
+```
+deactivate
+```
+
+4. you can use the extension - Python Environment Manager. 
 ```
 https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager
 ```
