@@ -1,0 +1,6 @@
+__pycache__/
+.vscode
+input_pdf/*
+!input_pdf/.gitkeep
+merged_pdf/*
+!merged_pdf/.gitkeep
