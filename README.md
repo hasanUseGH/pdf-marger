@@ -7,14 +7,6 @@ This Python script monitors an input folder for PDF files. When two or more PDF 
 - Python 3.x
 - PyPDF2 library
 
-## Installation
-
-1. Clone or download this repository to your local machine.
-2. Install the required dependencies using pip:
-
-```
-pip install PyPDF2
-```
 
 ## Create virtual environment
 1. create venv
@@ -34,6 +26,14 @@ deactivate
 4. you can use the extension - Python Environment Manager. 
 ```
 https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager
+```
+## Installation
+
+1. Clone or download this repository to your local machine.
+2. Install the required dependencies using pip:
+
+```
+pip install PyPDF2
 ```
 
 ## Usage
